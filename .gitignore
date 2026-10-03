@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.log
+*.pid
+*.swp
+data/
+logs/
+*.egg-info/
+.DS_Store
+kubectl
+*.working
